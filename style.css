@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    text-align: center;
+}
+.heading{
+    border-bottom: 1px solid black;
+    margin: 30px 0;
+    padding-bottom: 20px;
+}
+.count{
+    font-size: 48px;
+    margin-top: 30px;
+    
+}
+button {
+    padding: 12px 15px;
+    margin-top: 20px;
+    background-color: aqua;
+    border-radius: 8px;
+}
+.inc_dec{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+p{
+    font-size: 20px;
+}
+input{
+    width: 70px;
+    font-size: 20px;
+    height: 25px;
+}
